@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 assets
+/public/character-spritesheet.tsx
+/public/5_Classroom_and_library_Shadowless_48x48.tsx
+/public/spritesheet.tsx
+/public/8_Gym_Shadowless_48x48.tsx
+/public/spritesheet.png
