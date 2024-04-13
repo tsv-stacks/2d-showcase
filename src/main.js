@@ -27,9 +27,9 @@ k.scene("main", async () => {
 
   const player = k.make([
     k.sprite("spritesheet", { anim: "idle-down" }),
-    k.area({ shape: new k.Rect(k.vec2(0, 3), 32, 32) }),
+    k.area({ shape: new k.Rect(k.vec2(0, 4), 48, 48) }),
     k.body(),
-    k.anchor("center"),
+    k.anchor("bot"),
     k.pos(),
     k.scale(scaleFactor),
     {
