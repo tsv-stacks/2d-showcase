@@ -80,7 +80,7 @@
         {
           "height": 96,
           "id": 47,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -91,7 +91,7 @@
         {
           "height": 288,
           "id": 49,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -102,7 +102,7 @@
         {
           "height": 144,
           "id": 51,
-          "name": "Exit",
+          "name": "exit",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -113,7 +113,7 @@
         {
           "height": 204,
           "id": 53,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -124,7 +124,7 @@
         {
           "height": 156,
           "id": 54,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -135,7 +135,7 @@
         {
           "height": 240,
           "id": 55,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -146,7 +146,7 @@
         {
           "height": 180,
           "id": 56,
-          "name": "reading-area",
+          "name": "readingArea",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -168,7 +168,7 @@
         {
           "height": 528,
           "id": 60,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -179,7 +179,7 @@
         {
           "height": 24,
           "id": 62,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -190,7 +190,7 @@
         {
           "height": 660,
           "id": 63,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -201,7 +201,7 @@
         {
           "height": 60,
           "id": 66,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -221,20 +221,9 @@
           "y": 84
         },
         {
-          "height": 0,
-          "id": 68,
-          "name": "wall",
-          "rotation": 0,
-          "type": "",
-          "visible": true,
-          "width": 0,
-          "x": 48,
-          "y": 708
-        },
-        {
           "height": 120,
           "id": 69,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -256,7 +245,7 @@
         {
           "height": 48,
           "id": 71,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -289,7 +278,7 @@
         {
           "height": 84,
           "id": 83,
-          "name": "sofa",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -300,7 +289,7 @@
         {
           "height": 60,
           "id": 84,
-          "name": "sofa",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -322,7 +311,7 @@
         {
           "height": 60,
           "id": 86,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -333,7 +322,7 @@
         {
           "height": 84,
           "id": 87,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -344,7 +333,7 @@
         {
           "height": 48,
           "id": 88,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -355,7 +344,7 @@
         {
           "height": 48,
           "id": 89,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -366,7 +355,7 @@
         {
           "height": 36,
           "id": 90,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
@@ -421,7 +410,7 @@
         {
           "height": 48,
           "id": 97,
-          "name": "wall",
+          "name": "",
           "rotation": 0,
           "type": "",
           "visible": true,
